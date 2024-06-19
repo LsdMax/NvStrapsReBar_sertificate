@@ -1,1 +1,1 @@
-NvStrapsReBar.bin Nvidia Sertificate.
+v0.3 NvStrapsReBar.bin Nvidia Sertificate.
